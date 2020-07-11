@@ -1,0 +1,2 @@
+import mariImageBrowser
+mariImageBrowser.launch()
